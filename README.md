@@ -57,7 +57,7 @@ The authors gratefully thank **Prof. Worth** for his inspiring discussion and gu
 ## 🧩 Citation
 If you reference this work, please cite as:
 
->  Zhao, S; Zeng, A.;Zheng, J. (2025). *Threshold Photoelectron Spectrum of Cyclobutadiene: Comparison with Time-Dependent Wave Packet Simulations*. University College London.
+>  Zhao, S; Zeng, A.;Zheng, J. (2023). *Threshold Photoelectron Spectrum of Cyclobutadiene: Comparison with Time-Dependent Wave Packet Simulations*. University College London.
 
 ---
 
