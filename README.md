@@ -81,7 +81,7 @@ Finally, the **simulated spectra** are compared with the **experimental ms-TPE s
 ---
 
 ## 🙏 Acknowledgements
-The authors gratefully thank **Prof. Worth** for his inspiring discussion and guidance on the computational methods and analysis.
+The authors gratefully thank **Prof. Worth Graham** for his inspiring discussion and guidance on the computational methods and analysis.
 
 ---
 
