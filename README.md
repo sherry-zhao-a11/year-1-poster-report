@@ -19,6 +19,42 @@ Cyclobutadiene (CBD) is the smallest and most studied example of an **antiaromat
 - **Simulation approach:**  
   Time-dependent **wavepacket dynamics** were performed using a **vibronic coupling model Hamiltonian**, parametrized with **CASPT2** (Complete Active Space with Second-Order Perturbation Theory) calculations.
 
+## 🧮 CASPT2 Calculation Explained
+
+### 1️⃣ Complete Active Space (CAS)
+- In a **complete active space (CAS)** calculation, we **choose an active space** that includes the most important part of electronic excitations (e.g., π → π*).
+- Electrons within these orbitals are allowed to **redistribute in all possible ways**, leading to a **multireference wavefunction** — the **CASSCF (Complete Active Space Self-Consistent Field)**.
+
+### 2️⃣ Role of CASSCF
+- CASSCF accounts for **essential static electron correlation**, but it has a limitation:
+  - It **cannot describe dynamic correlation**, which mainly arises from **short-range electron–electron interactions**.
+
+### 3️⃣ Introducing PT2 (Second-Order Perturbation Theory)
+- To overcome this limitation, **PT2** is applied:
+  - First, a **reliable reference wavefunction** is obtained from CASSCF.
+  - Then, the **remaining dynamic correlation** is recovered through **second-order perturbation theory**.
+- The combination gives us **CASPT2 (Complete Active Space with Second-Order Perturbation Theory)** — a powerful balance of static and dynamic electron correlation.
+
+---
+
+## ⚗️ What CASPT2 Provides
+CASPT2 yields highly accurate:
+- **Ionization energies**
+- **Potential energy surfaces**
+- **Vibronic coupling models**
+
+These outputs form the foundation for **time-dependent wavepacket simulations**, which allow us to explore how **vibrational modes influence changes in the electronic structure over time**.
+
+---
+
+## 🧠 Connection to Wavepacket Dynamics
+By combining CASPT2 results with **wavepacket propagation models**, we can:
+- Simulate how vibrational motions (like ν₄) evolve on the potential energy surface.
+- Understand how these vibrations **couple to electronic states** and shape the **photoelectron spectrum**.
+
+Finally, the **simulated spectra** are compared with the **experimental ms-TPE spectra** to validate the theoretical model.
+
+
 ---
 
 ## 📈 Results
