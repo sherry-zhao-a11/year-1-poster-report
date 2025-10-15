@@ -1,7 +1,7 @@
 # Threshold Photoelectron Spectrum of Cyclobutadiene
 
 ## 📘 Overview
-This repository contains the poster **“Threshold Photoelectron Spectrum of Cyclobutadiene: Comparison with Time-Dependent Wave Packet Simulations”**, presented by **April Zeng, Jimmy Zheng, and Sherry Zhao** from the **Department of Chemistry, University College London (UCL)**.
+This repository shows the year 1 poster projecrs **“Threshold Photoelectron Spectrum of Cyclobutadiene: Comparison with Time-Dependent Wave Packet Simulations”**, presented by **April Zeng, Jimmy Zheng, and Sherry Zhao** from the **Department of Chemistry, University College London (UCL)**.
 
 The project reinvestigates the photoionization and vibronic coupling behavior of **cyclobutadiene (C₄H₄)** — a prototypical *antiaromatic* molecule — using **mass-selected threshold photoelectron spectroscopy (ms-TPEs)** and **time-dependent wave packet simulations**.
 
